@@ -50,7 +50,7 @@
 
 <!-- ===== DUAL MACHINE NEOFETCH ===== -->
 
-<div align="center">
+
 
 ```
 tj@Jackys-MacBook-Pro ~ % fastfetch
@@ -100,7 +100,7 @@ tj@tj-MSI:~$ fastfetch
 
 ```
 
-</div>
+
 
 <br>
 
