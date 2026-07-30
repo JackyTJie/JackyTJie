@@ -48,61 +48,6 @@
 
 <br>
 
-<!-- ===== DUAL MACHINE NEOFETCH ===== -->
-
-
-
-```
-tj@Jackys-MacBook-Pro ~ % fastfetch
-
-                     ..'          tj@Jackys-MacBook-Pro
-                 ,xNMM.           ---------------------
-               .OMMMMo            OS       macOS Tahoe 26.5.2 arm64
-               lMM"               Host     MacBook Pro (14-inch, M5 Pro, 2026)
-     .;loddo:.  .olloddol;.       Kernel   Darwin 25.5.0
-   cKMMMMMMMMMMNWMMMMMMMMMM0:     Shell    zsh 5.9
- .KMMMMMMMMMMMMMMMMMMMMMMMWd.     Terminal Apple Terminal 470.2
- XMMMMMMMMMMMMMMMMMMMMMMMX.       CPU      Apple M5 Pro (15) @ 4.61 GHz
-;MMMMMMMMMMMMMMMMMMMMMMMM:        GPU      Apple M5 Pro (16) [Integrated]
-:MMMMMMMMMMMMMMMMMMMMMMMM:        Memory   24.00 GiB
-.MMMMMMMMMMMMMMMMMMMMMMMMX.
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.
- 'XMMMMMMMMMMMMMMMMMMMMMMMMMMk
-  'XMMMMMMMMMMMMMMMMMMMMMMMMK.
-    kMMMMMMMMMMMMMMMMMMMMMMd
-     ;KMMMMMMMWXXWMMMMMMMk.
-       "cooc*"    "*coo'"
-
-
-tj@tj-MSI:~$ fastfetch
-
-
-                             ....              tj@tj-MSI
-              .',:clooo:  .:looooo:.           ---------
-           .;looooooooc  .oooooooooo'          OS       Ubuntu 24.04.4 LTS x86_64
-        .;looooool:,''.  :ooooooooooc          Host     MS-7E49
-       ;looool;.         'oooooooooo,          Kernel   Linux 6.17.0-35-generic
-      ;clool'             .cooooooc.  ,,       Shell    bash 5.2.21
-         ...                ......  .:oo,
-  .;clol:,.                        .loooo'     CPU      AMD Ryzen 9 9950X (32) @ 5.76 GHz
- :ooooooooo,                        'ooool     GPU 1    AMD Radeon Graphics [Integrated]
-'ooooooooooo.                        loooo.    GPU 2    NVIDIA GeForce RTX 5090 D [Discrete]
-'ooooooooool                         coooo.    Memory   123.38 GiB
- ,loooooooc.                        .loooo.    Disk     936.79 GiB SSD + 10 TiB HDD
-   .,;;;'.                          ;ooooc
-       ...                         ,ooool.
-    .cooooc.              ..',,'.  .cooo.
-      ;ooooo:.           ;oooooooc.  :l.
-       .coooooc,..      coooooooooo.
-         .:ooooooolc:. .ooooooooooo'
-           .':loooooo;  ,oooooooooc
-               ..';::c'  .;loooo:'
-
-```
-
-
-
-<br>
 
 <!-- ===== DIVIDER ===== -->
 
