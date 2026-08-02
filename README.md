@@ -1,30 +1,12 @@
-<!--
-
-  ████████╗ █████╗ ███╗   ██╗ ██████╗      ██╗██╗███████╗
-  ╚══██╔══╝██╔══██╗████╗  ██║██╔════╝      ██║██║██╔════╝
-     ██║   ███████║██╔██╗ ██║██║  ███╗     ██║██║█████╗
-     ██║   ██╔══██║██║╚██╗██║██║   ██║██   ██║██║██╔══╝
-     ██║   ██║  ██║██║ ╚████║╚██████╔╝╚█████╔╝██║███████╗
-     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚════╝ ╚═╝╚══════╝
-
--->
-
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=28&duration=3000&pause=1000&color=86868B&center=true&vCenter=true&width=600&lines=%24+whoami;tang+jie;student+--sjtu;handsome+freshman+--sjtu+--gc;arch+arm64+%7C+x86_64;shell+%2Fbin%2Fzsh+%7C+%2Fbin%2Fbash;uptime+20+years" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=28&duration=3000&pause=1000&color=6E6E73&center=true&vCenter=true&width=600&lines=%24+whoami;tang+jie;student+--sjtu;handsome+freshman+--sjtu+--gc;arch+arm64+%7C+x86_64;shell+%2Fbin%2Fzsh+%7C+%2Fbin%2Fbash;uptime+20+years" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=28&duration=3000&pause=1000&color=86868B&center=true&vCenter=true&width=600&lines=%24+whoami;tang+jie;student+--sjtu;handsome+freshman+--sjtu+--gc;arch+arm64+%7C+x86_64;shell+%2Fbin%2Fzsh+%7C+%2Fbin%2Fbash;uptime+20+years" alt="terminal typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=28&duration=3000&pause=1000&color=86868B&center=true&vCenter=true&width=600&lines=%24+whoami;tang+jie;student+--sjtu;handsome+Sophomore+--sjtu+--gc;arch+arm64+%7C+x86_64;shell+%2Fbin%2Fzsh+%7C+%2Fbin%2Fbash;uptime+19+years" alt="terminal typing" />
 </picture>
 
 <br>
-<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=64&duration=1&pause=1&color=F5F5F7&center=true&vCenter=true&width=600&lines=TANG+JIE" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=64&duration=1&pause=1&color=1D1D1F&center=true&vCenter=true&width=600&lines=TANG+JIE" />
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=64&duration=1&pause=1&color=F5F5F7&center=true&vCenter=true&width=600&lines=TANG+JIE" alt="TANG JIE" />
-</picture>
 
 <p>
   <samp>
@@ -38,7 +20,7 @@
 
 <p>
   <samp>
-    Freshman &middot; Shanghai Jiao Tong University &middot; Global College &middot; ECE
+    Sophomore &middot; Shanghai Jiao Tong University &middot; Global College &middot; ECE
     <br>
     Programming &middot; Embedded Systems &middot; Cycling &middot; Photography
   </samp>
@@ -59,7 +41,7 @@
   </picture>
 </div>
 
-<br>
+
 
 <!-- ===== MISSIONS ===== -->
 
@@ -69,10 +51,10 @@
 MISSIONS
 --------
 
-[ 01 ]  SJTURunningMan            automated run tracking              [ active  ]
-[ 02 ]  sjtu-agent                campus assistant (contributor)      [ active  ]
-[ 03 ]  ESP32 4-DOF ARM Car       robotics -- Top 16 / Best Design    [ complete ]
-[ 04 ]  tangjie.xyz               personal site & blog                [ active  ]
+[ 01 ]  SJTURunningMan            automated run tracking              [ active ]
+[ 02 ]  sjtu-agent                campus assistant (contributor)      [ active ]
+[ 03 ]  Maptrace                  Use Album to infer travel route     [ active ]
+[ 04 ]  tangjie.xyz               personal site & blog                [ active ]
 
 ```
 
