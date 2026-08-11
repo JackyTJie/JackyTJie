@@ -1,7 +1,7 @@
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=28&duration=3000&pause=1000&color=86868B&center=true&vCenter=true&width=600&lines=%24+whoami;tang+jie;student+--sjtu;handsome+freshman+--sjtu+--gc;arch+arm64+%7C+x86_64;shell+%2Fbin%2Fzsh+%7C+%2Fbin%2Fbash;uptime+20+years" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=28&duration=3000&pause=1000&color=6E6E73&center=true&vCenter=true&width=600&lines=%24+whoami;tang+jie;student+--sjtu;handsome+freshman+--sjtu+--gc;arch+arm64+%7C+x86_64;shell+%2Fbin%2Fzsh+%7C+%2Fbin%2Fbash;uptime+20+years" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=28&duration=3000&pause=1000&color=86868B&center=true&vCenter=true&width=600&lines=%24+whoami;tang+jie;student+--sjtu;handsome+sophomore+--sjtu+--gc;arch+arm64+%7C+x86_64;shell+%2Fbin%2Fzsh+%7C+%2Fbin%2Fbash;uptime+20+years" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=28&duration=3000&pause=1000&color=6E6E73&center=true&vCenter=true&width=600&lines=%24+whoami;tang+jie;student+--sjtu;handsome+sophomore+--sjtu+--gc;arch+arm64+%7C+x86_64;shell+%2Fbin%2Fzsh+%7C+%2Fbin%2Fbash;uptime+20+years" />
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=28&duration=3000&pause=1000&color=86868B&center=true&vCenter=true&width=600&lines=%24+whoami;tang+jie;student+--sjtu;handsome+Sophomore+--sjtu+--gc;arch+arm64+%7C+x86_64;shell+%2Fbin%2Fzsh+%7C+%2Fbin%2Fbash;uptime+19+years" alt="terminal typing" />
 </picture>
 
