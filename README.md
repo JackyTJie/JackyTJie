@@ -53,8 +53,7 @@ MISSIONS
 
 [ 01 ]  SJTURunningMan            automated run tracking              [ active ]
 [ 02 ]  sjtu-agent                campus assistant (contributor)      [ active ]
-[ 03 ]  Maptrace                  Use Album to infer travel route     [ active ]
-[ 04 ]  tangjie.xyz               personal site & blog                [ active ]
+[ 03 ]  SJTU_oauth                JAccount Login with SJTU WJ         [ active ]
 
 ```
 
