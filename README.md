@@ -10,8 +10,6 @@
 
 <p>
   <samp>
-    <a href="https://tangjie.xyz">tangjie.xyz</a>
-    &nbsp;&middot;&nbsp;
     <a href="mailto:tang.jie@live.com">tang.jie@live.com</a>
     &nbsp;&middot;&nbsp;
     <a href="https://github.com/JackyTJie">github/JackyTJie</a>
